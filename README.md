@@ -143,7 +143,7 @@ This is a beginner-friendly project! Contributions, issues, and feature requests
 
 This project was inspired by and references the following resources:
 
-- [MediaPipe Pose Documentation](https://google.github.io/mediapipe/solutions/pose.html)
+- [MediaPipe Pose Documentation](https://ai.google.dev/edge/mediapipe/solutions/vision/object_detector)
 
 ## 📄 License
 
